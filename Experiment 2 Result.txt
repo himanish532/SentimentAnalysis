@@ -1,0 +1,24 @@
+Results for Naive Bayes - processed data
+Training time: 0.018128s; Prediction time: 0.001434s
+             precision    recall  f1-score   support
+
+        neg       0.74      0.68      0.71      9164
+        pos       0.74      0.79      0.77     10836
+
+avg / total       0.74      0.74      0.74     20000
+
+
+[[6203 2961]
+ [2229 8607]]
+Results for Naive Bayes - un processed data
+Training time: 0.018188s; Prediction time: 0.001698s
+             precision    recall  f1-score   support
+
+        neg       0.75      0.69      0.72      9164
+        pos       0.75      0.80      0.78     10836
+
+avg / total       0.75      0.75      0.75     20000
+
+
+[[6299 2865]
+ [2119 8717]]

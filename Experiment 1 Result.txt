@@ -1,0 +1,48 @@
+Results for Optimized SVM - processed data
+Training time: 69.985891s; Prediction time: 0.805603s
+             precision    recall  f1-score   support
+
+        neg       0.80      0.81      0.80      2384
+        pos       0.71      0.70      0.70      1616
+
+avg / total       0.76      0.76      0.76      4000
+
+
+[[1931  453]
+ [ 491 1125]]
+Results for Optimized SVM - un processed data
+Training time: 83.529287s; Prediction time: 1.088965s
+             precision    recall  f1-score   support
+
+        neg       0.80      0.84      0.82      2384
+        pos       0.74      0.70      0.72      1616
+
+avg / total       0.78      0.78      0.78      4000
+
+
+[[1991  393]
+ [ 489 1127]]
+Results for Naive Bayes - processed data
+Training time: 0.004036s; Prediction time: 0.000339s
+             precision    recall  f1-score   support
+
+        neg       0.72      0.93      0.81      2384
+        pos       0.82      0.46      0.59      1616
+
+avg / total       0.76      0.74      0.72      4000
+
+
+[[2216  168]
+ [ 867  749]]
+Results for Naive Bayes - un processed data
+Training time: 0.004010s; Prediction time: 0.000372s
+             precision    recall  f1-score   support
+
+        neg       0.71      0.95      0.81      2384
+        pos       0.85      0.42      0.57      1616
+
+avg / total       0.77      0.74      0.71      4000
+
+
+[[2267  117]
+ [ 933  683]]
