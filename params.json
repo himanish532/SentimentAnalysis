@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analysis on Twitter Dataset",
+  "tagline": "",
+  "body": "Sentiment analysis is a process of identifying a person’s emotion/attitude towards a particular topic. In this work, we develop models to automatically classify a tweet into positive or negative. We train different classifiers using a twitter dataset and compare their performance. The classifiers compared are support vector machines and Naive Bayes over the same data set. The report describes the task, data and results.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
